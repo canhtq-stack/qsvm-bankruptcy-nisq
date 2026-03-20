@@ -7,7 +7,7 @@ This folder is intentionally empty in the repository. The datasets used in this 
 | Dataset | Source | Direct link |
 |---|---|---|
 | Polish Companies Bankruptcy | UCI ML Repository | https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data |
-| Taiwan Economic Journal Bankruptcy | Kaggle | https://www.kaggle.com/datasets/twfinancial/bankruptcy |
+| Taiwan Economic Journal Bankruptcy | UCI Machine Learning Repository | https://archive.ics.uci.edu/dataset/572 |
 
 Place the downloaded files into the `data/raw/` folder.
 
