@@ -35,7 +35,7 @@ Both datasets are publicly available and must be downloaded separately before ru
 | Dataset | Source | n | License |
 |---|---|---|---|
 | Polish Companies Bankruptcy | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) | 10,504 | CC BY 4.0 |
-| Taiwan Economic Journal Bankruptcy | [Kaggle](https://www.kaggle.com/datasets/twfinancial/bankruptcy) | 6,820 | CC0 1.0 |
+| Taiwan Economic Journal Bankruptcy | [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/572) | 6,820 | CC0 1.0 |
 
 After downloading, update the paths in `config.py` before running.
 
