@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn==1.8.0
+xgboost==3.3.0
+lightgbm==4.6.0
+shap==0.52.0
+imbalanced-learn==0.14.2
+qiskit==2.4.2
+qiskit-machine-learning==0.9.0
+scipy==1.17.1
+matplotlib

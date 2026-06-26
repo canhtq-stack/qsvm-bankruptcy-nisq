@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints (trạng thái tạm để resume, không cần versioning — kết quả cuối nằm trong .pkl/.csv không có suffix .checkpoint)
+results/*.checkpoint
+
+# Log files
+results/log_*.txt
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
